@@ -1,0 +1,6 @@
+INFO:root:(2, 3, 4, 5)
+INFO:root:(2, 3, 4, 5)
+INFO:root:Returning the entered arguments.
+INFO:root:This is my first test code.
+INFO:logger1.area1:This is an info for logger 1
+INFO:logger1.area2:This is an info for logger 2

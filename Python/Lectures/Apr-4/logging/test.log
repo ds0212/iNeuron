@@ -1,0 +1,35 @@
+INFO:root:I am going to start my program.
+WARNING:root:This is my first warning so modify it.
+ERROR:root:This is an error message.
+INFO:root:I am going to start my program.
+WARNING:root:This is my first warning so modify it.
+INFO:root:I am going to start my program.
+INFO:root:I am going to start my program.
+2021-04-12 10:49:01,280 I am going to start my program.
+2021-04-12 10:49:02,117 This is my first warning so modify it.
+2021-04-12 10:49:03,564 This is an error message.
+2021-04-12 10:56:44,825 Error has occured.
+2021-04-12 10:56:44,825 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-12-05f37edbaf6c>", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-12 10:58:29,525 Error has occured.
+2021-04-12 10:58:29,526 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-15-203dda604ff4>", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-12 10:58:47,515 40
+2021-04-12 10:58:47,517 Error has occured.
+2021-04-12 10:58:47,517 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-dc20047c9fdf>", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-12 11:35:46,224 This is an Info log
+2021-04-12 11:35:46,224 This is a warning log
+2021-04-12 11:35:46,224 This is an error log
+2021-04-12 11:35:46,224 This is an exception
+NoneType: None
+2021-04-12 11:35:46,224 This is critical
