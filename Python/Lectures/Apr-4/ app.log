@@ -1,33 +1,4 @@
-2021-04-12 12:51:01,875 root INFO This is my first test code.
-2021-04-12 12:51:01,883 logger1.area1 INFO This is an info for logger 1
-2021-04-12 12:51:01,883 logger1.area2 DEBUG This is a debug for logger 2
-2021-04-12 12:51:01,883 logger1.area2 INFO This is an info for logger 2
-2021-04-12 13:20:26,593 parso.cache DEBUG pickle loaded: c:\users\dhrum\appdata\local\programs\python\python39\lib\logging\__init__.py
-2021-04-12 13:20:26,641 parso.cache DEBUG pickle loaded: c:\users\dhrum\appdata\local\programs\python\python39\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
-2021-04-12 13:20:26,699 parso.cache DEBUG pickle loaded: c:\users\dhrum\appdata\local\programs\python\python39\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
-2021-04-12 13:20:26,704 parso.cache DEBUG pickle loaded: c:\users\dhrum\appdata\local\programs\python\python39\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
-2021-04-12 13:20:46,894 root INFO This is my first test code.
-2021-04-12 13:20:46,894 logger1.area1 INFO This is an info for logger 1
-2021-04-12 13:20:46,904 logger1.area2 DEBUG This is a debug for logger 2
-2021-04-12 13:20:46,904 logger1.area2 INFO This is an info for logger 2
-2021-04-12 13:40:06,316 parso.python.diff DEBUG diff parser start
-2021-04-12 13:40:06,317 parso.python.diff DEBUG line_lengths old: 5; new: 1
-2021-04-12 13:40:06,317 parso.python.diff DEBUG -> code[replace] old[1:5] new[1:1]
-2021-04-12 13:40:06,317 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
-2021-04-12 13:40:06,317 parso.python.diff DEBUG diff parser end
-2021-04-12 14:01:16,401 parso.python.diff DEBUG diff parser start
-2021-04-12 14:01:16,401 parso.python.diff DEBUG line_lengths old: 1; new: 2
-2021-04-12 14:01:16,402 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:2]
-2021-04-12 14:01:16,402 parso.python.diff DEBUG parse_part from 1 to 2 (to 1 in part parser)
-2021-04-12 14:01:16,403 parso.python.diff DEBUG diff parser end
-2021-04-12 14:01:17,880 parso.python.diff DEBUG diff parser start
-2021-04-12 14:01:17,880 parso.python.diff DEBUG line_lengths old: 2; new: 2
-2021-04-12 14:01:17,880 parso.python.diff DEBUG -> code[equal] old[1:1] new[1:1]
-2021-04-12 14:01:17,880 parso.python.diff DEBUG parse_part from 1 to 2 (to 1 in part parser)
-2021-04-12 14:01:17,881 parso.python.diff DEBUG -> code[replace] old[2:2] new[2:2]
-2021-04-12 14:01:17,881 parso.python.diff DEBUG diff parser end
-2021-04-12 14:02:22,775 parso.python.diff DEBUG diff parser start
-2021-04-12 14:02:22,776 parso.python.diff DEBUG line_lengths old: 2; new: 1
-2021-04-12 14:02:22,776 parso.python.diff DEBUG -> code[replace] old[1:2] new[1:1]
-2021-04-12 14:02:22,778 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
-2021-04-12 14:02:22,778 parso.python.diff DEBUG diff parser end
+2021-05-11 10:20:41,083 root INFO This is my first test code.
+2021-05-11 10:20:41,084 logger1.area1 INFO This is an info for logger 1
+2021-05-11 10:20:41,085 logger1.area2 DEBUG This is a debug for logger 2
+2021-05-11 10:20:41,086 logger1.area2 INFO This is an info for logger 2
