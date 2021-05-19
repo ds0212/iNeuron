@@ -1,0 +1,7 @@
+2021-05-18 16:11:19,460 root INFO Info added
+2021-05-18 16:11:40,919 root INFO Info added
+2021-05-18 16:12:04,654 root ERROR [Errno 2] No such file or directory: 'file12.txt'
+Traceback (most recent call last):
+  File "<ipython-input-1-cdf1480ce32e>", line 16, in file_read
+    f = open(self.file_name+'.txt', "r")
+FileNotFoundError: [Errno 2] No such file or directory: 'file12.txt'

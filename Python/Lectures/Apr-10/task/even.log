@@ -1,0 +1,10 @@
+2021-05-12 12:04:28,550 invalid literal for int() with base 10: 'j'
+Traceback (most recent call last):
+  File "<ipython-input-4-94ab7acf3d59>", line 13, in <module>
+    inp = int(input())
+ValueError: invalid literal for int() with base 10: 'j'
+2021-05-12 13:10:08,398 invalid literal for int() with base 10: 'd'
+2021-05-12 13:10:14,911 invalid literal for int() with base 10: 'd'
+2021-05-12 14:25:29,207 invalid literal for int() with base 10: 'j'
+2021-05-12 14:25:50,934 invalid literal for int() with base 10: 'd'
+2021-05-12 14:26:34,742 invalid literal for int() with base 10: 'l'
